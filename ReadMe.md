@@ -1,5 +1,7 @@
 ReadMe File Created on 27th Thursday. 
 
-Tag 1.0 Created
+Removed Tag. 
 
-Added some more code.
+Added some more code. -- Modified file. 
+
+Edited file v2. 
