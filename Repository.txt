@@ -1,1 +1,3 @@
-New file added
+New file added.
+
+Tag 0.0.2 created. 
